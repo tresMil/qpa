@@ -1,0 +1,193 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Auto Moto Tv" tvg-logo="https://i.imgur.com/24esKIQ.png"
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.imgur.com/NLaJ129.png"
+http://lista.g5iptv.space:8080/michel/michel/57751
+#EXTINF:-1 tvg-id="Band Minas" tvg-logo="https://i.imgur.com/CKU3KPv.png"
+http://lista.g5iptv.space:8080/michel/michel/57748
+#EXTINF:-1 tvg-id="Band Nordeste" tvg-logo="https://i.imgur.com/yLejeNE.png"
+http://lista.g5iptv.space:8080/michel/michel/58721
+#EXTINF:-1 tvg-id="Band Nordeste" tvg-logo="https://i.imgur.com/CKU3KPv.png"
+http://lista.g5iptv.space:8080/michel/michel/57746
+#EXTINF:-1 tvg-id="Band Nordeste" tvg-logo="https://i.imgur.com/CKU3KPv.png"
+http://lista.g5iptv.space:8080/michel/michel/58713
+#EXTINF:-1 tvg-id="BBB" tvg-logo="https://i.imgur.com/Ht7ZpvZ.png"
+http://lista.g5iptv.space:8080/michel/michel/57003
+#EXTINF:-1 tvg-id="BBB Mozaico" tvg-logo="https://i.imgur.com/c2mgjod.png"
+http://lista.g5iptv.space:8080/michel/michel/57002
+#EXTINF:-1,BIS FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58684
+#EXTINF:-1,BOOMERANG  FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58680
+#EXTINF:-1,CANAL OFF FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57721
+#EXTINF:-1,CARTOON FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57718
+#EXTINF:-1,CINEMAX FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57716
+#EXTINF:-1,COMBATE FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58662
+#EXTINF:-1,COMBATE FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57711
+#EXTINF:-1,COMEDY CENTRAL FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57708
+#EXTINF:-1,DISCOVERY CHANNEL FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58649
+#EXTINF:-1,DISCOVERY CIVILIZATION FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57703
+#EXTINF:-1,DISCOVERY FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57701
+#EXTINF:-1,DISCOVERY FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57701
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58642
+#EXTINF:-1,DISCOVERY KIDS FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58641
+#EXTINF:-1,DISCOVERY SCIENCE FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57694
+#EXTINF:-1,DISCOVERY TURBO FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58634
+#EXTINF:-1,DISCOVERY WORLD FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58630
+#EXTINF:-1,DISNEY CHANNEL FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58628
+#EXTINF:-1,DISNEY JR FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57689
+#EXTINF:-1,ESPN BRASIL FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58618
+#EXTINF:-1,ESPN EXTRA FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58615
+#EXTINF:-1,ESPN FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58612
+#EXTINF:-1,ESPN MAIS FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57677
+#EXTINF:-1,FOOD NETWORK FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57672
+#EXTINF:-1,FOX FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58604
+#EXTINF:-1,FOX LIFE FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57666
+#EXTINF:-1,FOX PREMIUM 1 FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57664
+#EXTINF:-1,FOX PREMIUM 2 FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58598
+#EXTINF:-1,FOX SPORTS 1 FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57660
+#EXTINF:-1,FOX SPORTS 2 FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58594
+#EXTINF:-1,GLOBO CAMPINAS SD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58581
+#EXTINF:-1,GLOBO NEWS FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57644
+#EXTINF:-1,GLOOB FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57621
+#EXTINF:-1,GLOOBINHO HD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58546
+#EXTINF:-1,GNT FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57619
+#EXTINF:-1,H2 FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57617
+#EXTINF:-1,HBO 2 FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58540
+#EXTINF:-1,HBO FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58535
+#EXTINF:-1,HBO PLUS SD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57608
+#EXTINF:-1,HBO SIGNATURE HD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58530
+#EXTINF:-1,HISTORY FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58528
+#EXTINF:-1,ID FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57603
+#EXTINF:-1,INVESTIGATION DISCOVERY HD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58525
+#EXTINF:-1,LIFETIME HD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58523
+#EXTINF:-1,MAIS GLOBOSAT HD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58521
+#EXTINF:-1,MAX HD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58519
+#EXTINF:-1,MAX PRIME FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57602
+#EXTINF:-1,MAX UP HD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58515
+#EXTINF:-1,MEGAPIX HD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58513
+#EXTINF:-1,MTV FHD (BR2) [JJ
+http://lista.g5iptv.space:8080/michel/michel/57594
+#EXTINF:-1,MTV LIVE HD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58510
+#EXTINF:-1,MULTISHOW FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57593
+#EXTINF:-1,NAT GEO FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57589
+#EXTINF:-1,NAT GEO KIDS HD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58502
+#EXTINF:-1,NAT GEO WILD FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58499
+#EXTINF:-1,NAT GEO WILD FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58499
+#EXTINF:-1,NICK JR FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58495
+#EXTINF:-1,NICKELODEON FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58491
+#EXTINF:-1,OFF FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57576
+#EXTINF:-1,PARAMOUNT FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57575
+#EXTINF:-1,PREMIERE 2 FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58483
+#EXTINF:-1,PREMIERE CLUBES FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58465
+#EXTINF:-1,RECORD NEWS FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57554
+#EXTINF:-1,SBT FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58433
+#EXTINF:-1,SOBRENATURAL TV
+http://lista.g5iptv.space:8080/michel/michel/42252
+#EXTINF:-1,SONY FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57536
+#EXTINF:-1,SPACE FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57535
+#EXTINF:-1,SPORTV FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58421
+#EXTINF:-1,STUDIO UNIVERSAL FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57523
+#EXTINF:-1,SYFY FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57520
+#EXTINF:-1,TBS HD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58413
+#EXTINF:-1,TCM SD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58411
+#EXTINF:-1,TELECINE ACTION FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58409
+#EXTINF:-1,TELECINE CULT FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57512
+#EXTINF:-1,TELECINE FUN FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58405
+#EXTINF:-1,TELECINE PIPOCA FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58402
+#EXTINF:-1,TELECINE PREMIMUM FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57503
+#EXTINF:-1,TELECINE TOUCH FHD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58396
+#EXTINF:-1,TERRA VIVA SD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58393
+#EXTINF:-1,THE HISTORY CHANNEL SD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57497
+#EXTINF:-1,TLC HD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58392
+#EXTINF:-1,TNT FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57495
+#EXTINF:-1,TNT SERIES FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57493
+#EXTINF:-1,TOONCAST SD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58386
+#EXTINF:-1,UNIVERSAL CHANNEL FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57475
+#EXTINF:-1,VH1 MEGAHITS FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57473
+#EXTINF:-1,WARNER CHANNEL FHD (BR2)
+http://lista.g5iptv.space:8080/michel/michel/57469
+#EXTINF:-1,WOOHOO HD (BR1)
+http://lista.g5iptv.space:8080/michel/michel/58361
